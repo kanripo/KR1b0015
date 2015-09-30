@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五誥解
-#+DATE: 2015-09-23 09:35:57
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:02:01.319833
+#+PROPERTY: ID KR1b0015
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1b0015_WYG_001-1a>¶
 欽定四庫全書¶
 　五誥解卷一　　　　　　　宋　楊簡　撰¶
@@ -304,4 +306,3 @@
 　聽即逺乃猷申言之用此以康乂民也¶
 王若曰往哉封勿替敬典聽朕告汝乃以殷民世享¶
 　此皆丁寧申諭¶
-
